@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/kfy7a11aggclq3gc/branch/master?svg=true)](https://ci.appveyor.com/project/777Evgenii/dz2-1blok-avtomatizirovanoetestirovanie/branch/master)
